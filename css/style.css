@@ -4,7 +4,7 @@
 */
 
 .mdl-layout__content {
-  page-align: center;
+align-items: center;
   justify-content: center;
 }
 
@@ -24,7 +24,7 @@ h3,
 h4 {
   color: #845a3e;
   text-align: center;
-  font-family: Segoe UI, Arial, Tahoma, sans-serif;
+  font-family: "Segoe UI", Arial, Tahoma, sans-serif;
 }
 
 ul {
