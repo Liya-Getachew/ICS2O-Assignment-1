@@ -19,7 +19,8 @@ div {
   display: block;
 }
 
-html, body {
+html,
+body {
   background-color: #ede3d4;
   font-family: "Segoe UI", Arial, Tahoma, sans-serif;
   font-size: 20px;
